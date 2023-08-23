@@ -1,0 +1,42 @@
+.container {
+    box-sizing: border-box;
+    font-style: normal;
+    border: 2px solid #EA7E93;
+    width: 300px;
+    height: 400px;
+    background-color: linen;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    color: #EA7E93;
+}
+
+.title {
+    text-align: center;
+    color: black;
+}
+
+.id {
+    text-align: center;
+    font-style: normal;
+}
+
+.pw {
+    text-align: center;
+    font-style: normal;
+}
+.input {
+    justify-content: center;
+    text-align: center;
+}
+
+
+.pwinput {
+    justify-content: center;
+    text-align: center;
+}
+
+.loginbutton{
+    text-align: center;
+}
+
